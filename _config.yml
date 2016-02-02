@@ -1,7 +1,8 @@
 name: Catalyst
 favicon: null
-layout_spectrum: 0.567512515000999
-typography_spectrum: 0.042201872216537595
+layout_spectrum: 1
+typography_spectrum: 0.14222
+title: Catalyst Art Show
 cta:
   domain: null
   bucket: null
@@ -16,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#3a3934'
+    - '#ffffff'
+    - '#da7c57'
+    - '#654e43'
+    - '#b4654b'
   brandStrength: 0.10619344934821129
   lightness: 0.3469585820566863
   saturation: 0.9263628791086376
