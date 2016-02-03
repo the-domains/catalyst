@@ -3,21 +3,21 @@ inFeed: true
 hasPage: false
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Catalyst Art Show
-datePublished: '2016-02-03T20:49:22.987Z'
-dateModified: '2016-02-03T01:00:48.084Z'
+datePublished: '2016-02-03T20:52:37.294Z'
+dateModified: '2016-02-03T20:52:34.383Z'
 title: CATALYST ART SHOW
 author: []
 sourcePath: _posts/2016-02-02-catalyst-art-show.md
 published: true
 authors: []
 publisher:
-  favicon: null
   name: null
   domain: null
   url: null
+  favicon: null
 _type: Blurb
 
 ---
