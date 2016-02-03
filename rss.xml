@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Catalyst Art Show]]></title>
         <description><![CDATA[Catalyst Art Show]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://thisisthecatalyst.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 19:31:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Feb 2016 20:39:26 GMT</lastBuildDate>
+        <atom:link href="http://thisisthecatalyst.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d673a401-68a2-4c30-9977-60385968b229.jpg">]]></description>
+            <link>http://thisisthecatalyst.com/f8d7d022-771a-4b44-97bf-9ec4b600ffb8/index.html</link>
+            <guid isPermaLink="false">f8d7d022-771a-4b44-97bf-9ec4b600ffb8</guid>
+            <pubDate>Wed, 03 Feb 2016 20:39:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The Catalyst.</p>]]></description>
-            <link>undefinedc8c0d329-50b5-4c75-ad86-f478adc71478/index.html</link>
+            <link>http://thisisthecatalyst.com/c8c0d329-50b5-4c75-ad86-f478adc71478/index.html</link>
             <guid isPermaLink="false">c8c0d329-50b5-4c75-ad86-f478adc71478</guid>
             <pubDate>Tue, 02 Feb 2016 19:31:36 GMT</pubDate>
         </item>
